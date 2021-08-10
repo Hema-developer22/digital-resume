@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>HEMALATHA_ECE</title>
+</head>
+<body>
+	<img src="G:\photos\hema\hema resume pic.jpg"align="right"height=20%,width=20px><br>
+	<h3>HEMALATHA S</h3>
+	&#128231;<a href="mailto:hemalathaece20@gmail.com">&nbsp;hemalathaece20@gmail.com</a><br><br>
+		&#9990;<a href="tel:9025853646">&nbsp;+91-9025853646</a><br><br>
+		<a href="https://www.linkedin.com/in/hemalatha-s-1b62b71b5">https://www.linkedin.com/in/hemalatha-s-1b62b71b5</a><br><br>
+	<address>
+		11/50,Vaithiyar Thottam,<br>
+		Ramanathapuram,Veeraganur(P.O),<br>
+		Thalaivasal(T.K),Salem(D.t)<br>
+		Pin Code:636116.
+	</address>
+	<nav><h4 id="top">Contents of Resume</h4>
+	<p>
+		<a href="#careerobjective"style="text-decoration: none;">Career Objective</a><br>
+		<a href="#academicqualification"style="text-decoration: none;">Academic Qualification</a><br>
+		<a href="#professionalproficiency"style="text-decoration: none;">Professional Proficiency</a><br>
+		<a href="#project"style="text-decoration: none;">Project</a><br>
+		<a href="#personalproficiency"style="text-decoration: none;">Personal Proficiency</a><br>
+		<a href="#hobbies"style="text-decoration: none;">Hobbies</a><br>
+		<a href="#personaldetails"style="text-decoration: none;">Personal Details</a><br>
+	</p></nav>
+		<p>
+		<div>	<h3 id="careerobjective"style="background-color:skyblue">CAREER OBJECTIVE</h3>
+			<p>&nbsp;&nbsp;&nbsp;     To secure a challenging position in an MNC where I can implement my existing skills and explore new skills and experience for both the development of company and my knowledge.</p><a href="#top"style="text-decoration: none;">Back to Contents</a>
+			<h3 id="academicqualification"style="background-color:skyblue">ACADEMIC QUALIFICATION</h3>
+			<table border=" 1px solid black"style="font-size: 17px">
+				<tr>
+					<th>QUALIFICATION</th>
+					<th>INSTITUTION NAME</th>
+					<th>UNIVERSITY/BOARD</th>
+					<th>YEAR OF PASSING</th>
+					<th>PERCENTAGE</th>
+				</tr>
+				<tr>
+					<td style="text-align: center;"><acronym title="Bachelors of Engineering">B.E</acronym></td>
+					<td style="text-align: center;">Muthayammal Engineering College</td>
+					<td style="text-align: center;">Anna University</td>
+					<td style="text-align: center;">pursuing</td>
+					<td style="text-align: center;">9.484%</td>
+				</tr>
+				<tr>
+					<td style="text-align: center;"><acronym title="Higher Secondary Certificate">HSC</acronym></td>
+					<td style="text-align: center;">National Matric Higher Secondary School</td>
+					<td style="text-align: center;">Matric</td>
+					<td style="text-align: center;">2018</td>
+					<td style="text-align: center;">92.08%</td>
+				</tr>
+				<tr>
+					<td style="text-align: center;"><acronym title="Secondary School Leaving Certificate">SSLC</acronym></td>
+					<td style="text-align: center;">Swami Vivekananda Matric School</td>
+					<td style="text-align: center;">Matric</td>
+					<td style="text-align: center;">2016</td>
+					<td style="text-align: center;">96.8%</td>
+				</tr>
+			</table><a href="#top"style="text-decoration: none;">Back to Contents</a>
+		</div>
+			<h3 id="professionalproficiency"style="background-color:skyblue;">PROFESSIONAL PROFICIENCY</h3>
+			<h4>Technical Skills</h4>
+			<list>
+				<ul>
+					<li>Java(Full Stack)</li>
+				<li>C(Intermediate)</li>
+				<li>HTML and CSS</li></ul>
+			</list>
+			<h4>Paper Presentation/Workshop</h4>
+			<list>
+				<ul>
+					<li>Presented a paper on graphene technology, Nanobots, The Last Silicon Transistor</li>
+				<li>Attended a workshop on Smart Phone Troubleshooting</li></ul>
+			</list>
+			<h4>Accolades</h4>
+			<list>
+				<ul>
+					<li>Got first prize in Circuitrix which was held at Paavai Institutions</li>
+				<li>Got an award in the first year for securing second place in the semester examinations</li>
+				<li>Got <b>Student of the Year</b> in the SSLC</li></ul>
+			</list><a href="#top"style="text-decoration: none;">Back to Contents</a>
+			<h3 id="project"style="background-color:skyblue">PROJECT</h3>
+			<h4>Title</h4>
+			<p>&nbsp;&nbsp;&nbsp;Home Automation Using Arduino through Bluetooth Control</p>
+			<h4>Objective</h4>
+			<p> &nbsp;&nbsp;&nbsp;  With the Arduino Uno and Windows 10, we can build a home automatic system that is capable of operating home devices automatically.</p><a href="#top"style="text-decoration: none;">Back to Contents</a>
+			<h3 id="personalproficiency"style="background-color: skyblue;">PERSONAL PROFICIENCY</h3>
+			<list>
+				<ul>
+					<li>Problem solving</li>
+				<li>Quick Learning</li>
+				<li>Time Management</li></ul>
+			</list><a href="#top"style="text-decoration: none;">Back to Contents</a>
+			<h3 id="hobbies"style="background-color:skyblue">HOBBIES</h3>
+			<list>
+				<ul>
+					<li>Drawing</li>
+				<li>Reading Books</li>
+			</ul>
+			</list><a href="#top"style="text-decoration: none;">Back to Contents</a>
+			<h3 id="personaldetails"style="background-color: skyblue;">PERSONAL DETAILS</h3>
+			<list>
+				<ul>
+					<li>Born on 20<sup>th</sup> October 2000</li>
+				<li>Blood group is A(+ve)</li>
+				<li>Father Name is Sekar</li>
+				<li>Mother Name is Tamil Selvi</li>
+				<li>Unmarried</li>
+				<li>Known Languages are Tamil,English</li></ul>
+			</list><a href="#top"style="text-decoration: none;">Back to Contents</a>
+</p>
+</body>
+
+<style>
+	body{
+		background-image: url(mec logo.png);
+		background-size: auto;
+		background-attachment: fixed;
+	    padding-right: 200px;
+		padding-left: 200px;
+		font-family: lato-sans sans-serif;
+		font-size: 17px;
+     }
+			</style>
+</html>
